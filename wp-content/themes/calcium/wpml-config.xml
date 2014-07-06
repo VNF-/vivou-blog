@@ -1,0 +1,67 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">post</custom-type>
+		<custom-type translate="1">page</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+        <taxonomy translate="1">portfolio-category</taxonomy>
+    </taxonomies>
+	<custom-fields>
+		<custom-field action="translate">custom_page_title</custom-field>
+		<custom-field action="translate">laborator_meta_description</custom-field>
+		<custom-field action="translate">laborator_meta_keywords</custom-field>
+		<custom-field action="translate">archive_title</custom-field>
+		<custom-field action="translate">address</custom-field>
+		<custom-field action="translate">phone_and_email</custom-field>
+		<custom-field action="translate">contact_form_title</custom-field>
+		<custom-field action="translate">contact_form_success_message</custom-field>
+		<custom-field action="translate">secondary_title</custom-field>
+		<custom-field action="translate">filter_type</custom-field>
+		<custom-field action="translate">category</custom-field>
+		<custom-field action="translate">selected_items</custom-field>
+		<custom-field action="translate">head_text</custom-field>
+		<custom-field action="copy">show_contact_map</custom-field>
+		<custom-field action="copy">map_location</custom-field>
+		<custom-field action="copy">map_height</custom-field>
+		<custom-field action="copy">map_zoom_level</custom-field>
+		<custom-field action="copy">pin_image</custom-field>
+		<custom-field action="copy">map_style</custom-field>
+		<custom-field action="copy">use_contact_form</custom-field>
+		<custom-field action="copy">available_fields</custom-field>
+		<custom-field action="copy">required_fields</custom-field>
+		<custom-field action="copy">page_layout</custom-field>
+		<custom-field action="copy">filter_posts</custom-field>
+		<custom-field action="copy">posts_per_page</custom-field>
+		<custom-field action="copy">order_by</custom-field>
+		<custom-field action="copy">order_direction</custom-field>
+		<custom-field action="copy">client</custom-field>
+		<custom-field action="copy">finish_date</custom-field>
+		<custom-field action="ignore">laborator_meta_robots_index</custom-field>
+		<custom-field action="ignore">laborator_meta_robots_follow</custom-field>
+		<custom-field action="ignore">archive_post_type</custom-field>
+		<custom-field action="ignore">show_posts_count</custom-field>
+		<custom-field action="ignore">_thumbnail_id</custom-field>
+		<custom-field action="ignore">portfolio_images</custom-field>
+		<custom-field action="ignore">_wp_old_slug</custom-field>
+		<custom-field action="ignore">_dp_original</custom-field>
+		<custom-field action="ignore">laborator_likes</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="" />
+	</admin-texts>
+	<language-switcher-settings>
+		<key name="icl_language_switcher_sidebar">1</key>
+		<key name="icl_widget_title_show">1</key>
+		<key name="icl_lang_sel_type">dropdown</key>
+		<key name="icl_lso_link_empty">0</key>
+		<key name="icl_lso_flags">1</key>
+		<key name="icl_lso_native_lang">1</key>
+		<key name="icl_lso_display_lang">0</key>
+		<key name="icl_lang_sel_footer">0</key>
+		<key name="icl_post_availability">1</key>
+		<key name="icl_post_availability_position">below</key>
+		<key name="icl_post_availability_text">This post is also available in: %s</key>
+		</language-switcher-settings>
+	</language-switcher-settings>
+</wpml-config>

@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calcium\n"
+"POT-Creation-Date: 2014-03-04 11:14+0100\n"
+"PO-Revision-Date: 2014-03-04 11:15+0100\n"
+"Last-Translator: Arlind Nushi <info@laborator.co>\n"
+"Language-Team: Laborator.co <info@laborator.co>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-SearchPath-0: wp-content/"
+"themes/calcium\n"
+
+#: wp-content/themes/calcium/404.php:22
+msgid "404 <small>page not found</small>"
+msgstr ""
+
+#: wp-content/themes/calcium/404.php:38
+msgid "Search the site:"
+msgstr ""
+
+#: wp-content/themes/calcium/archives.php:76
+msgid "There are no items in this archive!"
+msgstr ""
+
+#: wp-content/themes/calcium/archives.php:133
+#: wp-content/themes/calcium/search.php:64
+#: wp-content/themes/calcium/tpls/blog-post.php:21
+msgid "(No title)"
+msgstr ""
+
+#: wp-content/themes/calcium/comments.php:40
+msgid "Comments"
+msgstr ""
+
+#: wp-content/themes/calcium/comments.php:43
+msgid "Leave a reply"
+msgstr ""
+
+#: wp-content/themes/calcium/comments.php:78
+msgid "Reply"
+msgstr ""
+
+#: wp-content/themes/calcium/comments.php:79
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: wp-content/themes/calcium/comments.php:84
+msgid "Message:"
+msgstr ""
+
+#: wp-content/themes/calcium/comments.php:87
+msgid "Comment"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:197
+#: wp-content/themes/calcium/inc/laborator_actions.php:437
+#: wp-content/themes/calcium/tpls/layout-blog-and-contact.php:58
+#: wp-content/themes/calcium/tpls/layout-contact-form.php:19
+msgid "Name"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:198
+#: wp-content/themes/calcium/inc/laborator_actions.php:438
+#: wp-content/themes/calcium/tpls/layout-blog-and-contact.php:59
+#: wp-content/themes/calcium/tpls/layout-contact-form.php:20
+msgid "E-mail"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:199
+#: wp-content/themes/calcium/tpls/layout-contact-form.php:21
+msgid "Phone Number"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:200
+#: wp-content/themes/calcium/inc/laborator_actions.php:439
+#: wp-content/themes/calcium/tpls/layout-blog-and-contact.php:60
+#: wp-content/themes/calcium/tpls/layout-contact-form.php:22
+msgid "Message"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:286
+msgid "<span>Reply</span>"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:289
+msgid "ago"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:319
+msgid "Rules of the Blog"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:320
+msgid ""
+"Do not post violating content, tags like bold, italic and underline are "
+"allowed that means HTML can be used while commenting. Lorem ipsum dolor sit "
+"amet conceur half the time you know i know what."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:551
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:552
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:553
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:554
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:565
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:566
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:171
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_actions.php:567
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_filters.php:25
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_filters.php:112
+msgid "Image"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:97
+msgid "First Page"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:136
+msgid "Last Page"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "one"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "two"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "three"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "four"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "five"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "six"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "seven"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "eight"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "nine"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "ten"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "eleven"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "twelve"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "thirteen"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "fourteen"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "fifteen"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "sixteen"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "seventeen"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "eighteen"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:188
+msgid "nineteen"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "twenty"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "thirty"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "forty"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "fifty"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "sixty"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "seventy"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "eighty"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "ninety"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:189
+msgid "hundred"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "thousand"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "million"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "billion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "trillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "quadrillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "quintillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "sextillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "septillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "octillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "nonillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "decillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "undecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "duodecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "tredecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "quattuordecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "quindecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "sexdecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "septendecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "octodecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "novemdecillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:190
+msgid "vigintillion"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:202
+msgid " Hundred"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:234
+msgid " and"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:241
+msgid "Zero"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:437
+msgid "Page"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:769
+#: wp-content/themes/calcium/inc/laborator_init.php:99
+msgid "Category"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:773
+msgid "Client"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:777
+msgid "When"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_functions.php:785
+msgid "Share this:"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:63
+#: wp-content/themes/calcium/inc/laborator_init.php:75
+msgid "Portfolio"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:64
+msgid "Portfolio Item"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:65
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:66
+msgid "Add New Item"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:67
+msgid "Edit Item"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:68
+msgid "New Item"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:69
+msgid "Portoflio Items"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:70
+msgid "View Item"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:71
+msgid "Search Portfolio"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:72
+msgid "No portfolio items found"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:73
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:98
+#: wp-content/themes/calcium/inc/laborator_init.php:108
+msgid "Categories"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:100
+msgid "Search Categories"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:101
+msgid "All Categories"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:102
+msgid "Parent Category"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:103
+msgid "Parent Category:"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:104
+msgid "Edit Category"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:105
+msgid "Update Category"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:106
+msgid "Add New Category"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/laborator_init.php:107
+msgid "New Category Name"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:172
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1950
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1950
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/laborator/laborator_likes.php:331
+#, php-format
+msgid "%d like"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/laborator/laborator_likes.php:497
+msgid "You have already liked this item."
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/laborator/laborator_likes.php:521
+msgid "You are not allowed to like this item!"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/smof/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/smof/front-end/options.php:43
+#: wp-content/themes/calcium/inc/lib/smof/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/smof/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: wp-content/themes/calcium/inc/lib/widgets/laborator_twitter.php:55
+msgid "Please configure Twitter account at admin panel."
+msgstr ""
+
+#: wp-content/themes/calcium/search.php:20
+#, php-format
+msgid "Search results for <span>&quot;%s&quot;</span>"
+msgstr ""
+
+#: wp-content/themes/calcium/search.php:27
+msgid "Search again..."
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/blog-post-author.php:56
+msgid "All posts by:"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/blog-post-author.php:56
+msgid "Author:"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/blog-post-author.php:62
+msgid "No other information about this author."
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/blog-post.php:217
+msgid "Read more"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/blog-post.php:289
+msgid "0 comments"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/blog-post.php:310
+msgid "<strong>Page:</strong>"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/layout-blog-and-contact.php:55
+msgid "Thank you for your message!"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/layout-blog-and-contact.php:61
+#: wp-content/themes/calcium/tpls/layout-contact-form.php:55
+msgid "Send"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/layout-portfolio-items.php:74
+msgid "Loading Portfolio Items..."
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/layout-portfolio-items.php:112
+msgid "Loading..."
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/layout-portfolio-items.php:114
+msgid "Load More"
+msgstr ""
+
+#: wp-content/themes/calcium/tpls/portfolio-filter.php:28
+msgid "All Items"
+msgstr ""

@@ -1,0 +1,123 @@
+p a:hover {
+  color: #0a0202;
+}
+::selection {
+  color: #0a0202;
+}
+::-moz-selection {
+  color: #0a0202;
+}
+.main-nav li ul li a:hover {
+  color: #0a0202;
+}
+.main-nav li ul li.current-menu-item > a {
+  color: #0a0202;
+}
+section.portfolio > ul li .project-info {
+  background: rgba(10,2,2,0.95);
+  color: #ffffff;
+}
+section.portfolio > ul li h4 {
+  color: #ffffff;
+}
+section.portfolio > ul li h4:hover a {
+  color: rgba(255,255,255,0.8);
+}
+section.portfolio > ul li h4 a {
+  color: #ffffff;
+}
+section.portfolio > ul li .categories {
+  color: #ffffff;
+}
+section.portfolio > ul li .categories a {
+  color: #ffffff;
+}
+section.portfolio > ul li .categories a:hover {
+  border-bottom-color: #ffffff;
+}
+section.portfolio > ul li .like span {
+  color: #ffffff;
+}
+section.portfolio > ul li .project-info h4 a {
+  color: #ffffff;
+}
+section.portfolio > ul li .project-info h4 a:hover {
+  color: rgba(255,255,255,0.8);
+}
+.project-open .portfolio-gallery a i:hover {
+  background-color: rgba(10,2,2,0.8);
+}
+.project-open a {
+  color: #0a0202;
+}
+.project-open a:hover {
+  color: #000000;
+}
+.widget ul.blog-latest li a:hover {
+  color: #0a0202;
+}
+.st-menu .menu-widget a {
+  color: #0a0202;
+}
+.st-menu .tweets-nav a.active,
+.st-menu .instagram-nav a.active {
+  background: #0a0202;
+}
+.st-menu .subscribe #subscribe_now {
+  background: #0a0202;
+}
+.search-bar h1 span {
+  color: #0a0202;
+}
+ul.search-results li h1 a:hover {
+  color: #0a0202;
+}
+ul.search-results li h1 a:hover span {
+  color: #0a0202;
+}
+ul.search-results li h1 a span {
+  border-bottom: 1px solid #0a0202;
+}
+div.blog .comments h1.title .reply:hover {
+  color: #0a0202;
+}
+div.blog .blog-post .post-content h1 a:hover {
+  color: #0a0202;
+}
+div.blog .blog-post .post-info .category a:hover {
+  color: #0a0202;
+}
+div.blog .blog-post .post-info .comments:hover {
+  background: #0a0202;
+  border-color: #0a0202;
+  box-shadow: inset 0px 0px 0px 1px #4a0f0f;
+}
+div.blog .blog-post .post-info .comments:hover:after {
+  border-color: transparent #0a0202 transparent transparent;
+  _border-color: #000000 #0a0202 #0a0202 #000000;
+}
+.breadcrumb > span {
+  color: #0a0202;
+}
+html body .wp-video .mejs-controls .mejs-time-rail span.mejs-time-current,
+html body .wp-audio-shortcode .mejs-controls .mejs-time-rail span.mejs-time-current {
+  background: #0a0202;
+}
+html body .wp-video .mejs-controls .mejs-volume-slider .mejs-volume-current,
+html body .wp-video .mejs-controls .mejs-volume-slider .mejs-volume-handle,
+html body .wp-audio-shortcode .mejs-controls .mejs-volume-slider .mejs-volume-current,
+html body .wp-audio-shortcode .mejs-controls .mejs-volume-slider .mejs-volume-handle {
+  background: #0a0202;
+}
+html body .wp-video .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+html body .wp-video .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle,
+html body .wp-audio-shortcode .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+html body .wp-audio-shortcode .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle {
+  background: #0a0202;
+}
+.comments-pagination a:hover {
+  color: #0a0202;
+}
+body .fso-overlay {
+  background: rgba(10,2,2,0.9);
+}

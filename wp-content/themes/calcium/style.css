@@ -1,0 +1,16 @@
+/*
+	Theme Name: Calcium
+	Author: Laborator.co
+	Author URI: http://www.laborator.co/
+	Description: Calcium &ndash; its a Responsive WordPress theme, primarily developed for Blog and Portfolio usage. It supports two types of header, two skins, custom fonts and many other options to customize the theme look and feel.
+	Version: 1.2.2
+	License: GNU General Public License v2 or later
+	License URI: license/README_License.txt
+*/
+
+.sticky, 
+.gallery-caption, 
+.bypostauthor, 
+.wp-caption-text, 
+.wp-caption {
+}

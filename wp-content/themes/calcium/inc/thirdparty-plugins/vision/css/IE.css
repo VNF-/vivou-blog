@@ -1,0 +1,185 @@
+/*-------------------------------*/
+/* Vertical Tabs
+/*-------------------------------*/
+.vision-tabs-vertical .tl{
+position: absolute;
+width: 20px;
+height: 20px;
+background-image: url(../images/internetExplorer/tabs-1-tl.png);
+background-repeat: no-repeat;
+top: 0;
+left: 0;
+z-index: 1001;
+}
+.vision-tabs-vertical .t{
+position: absolute;
+width: 100%;
+height: 10px;
+background-image: url(../images/internetExplorer/tabs-1-t.png);
+background-repeat: repeat-x;
+top: 0;
+left: 0;
+z-index: 1000;
+}
+.vision-tabs-vertical .tr{
+position: absolute;
+width: 20px;
+height: 20px;
+background-image: url(../images/internetExplorer/tabs-1-tr.png);
+background-repeat: no-repeat;
+top: 0;
+right: 0;
+z-index: 1001;
+}
+.vision-tabs-vertical .r{
+position: absolute;
+width: 10px;
+height: 100%;
+background-image: url(../images/internetExplorer/tabs-1-r.png);
+background-repeat: repeat-y;
+top: 0;
+right: 0;
+z-index: 1000;
+background-position: right top;
+}
+.vision-tabs-vertical .br{
+position: absolute;
+width: 20px;
+height: 20px;
+background-image: url(../images/internetExplorer/tabs-1-br.png);
+background-repeat: no-repeat;
+bottom: 0;
+right: 0;
+z-index: 1001;
+}
+.vision-tabs-vertical .b{
+position: absolute;
+width: 100%;
+height: 10px;
+background-image: url(../images/internetExplorer/tabs-1-b.png);
+background-repeat: repeat-x;
+bottom: 0;
+left: 0;
+z-index: 1000;
+background-position: bottom left;
+}
+.vision-tabs-vertical .bl{
+position: absolute;
+width: 20px;
+height: 20px;
+background-image: url(../images/internetExplorer/tabs-1-bl.png);
+background-repeat: no-repeat;
+bottom: 0;
+left: 0;
+z-index: 1001;
+}
+.vision-tabs-vertical .l{
+position: absolute;
+width: 10px;
+height: 100%;
+background-image: url(../images/internetExplorer/tabs-1-l.png);
+background-repeat: repeat-y;
+top: 0;
+left: 0;
+z-index: 1000;
+}
+.vision-tabs-vertical dd{
+background-image: url(../images/internetExplorer/tabs-1-m.png);
+background-repeat: repeat-y;
+}
+
+
+/*-------------------------------*/
+/* Dropcaps
+/*-------------------------------*/
+.tt-dropcap-round {
+background:url(../images/internetExplorer/tt-dropcap-sprite.png) left top no-repeat !important;
+filter:none !important;
+}
+.tt-dropcap-autumn .tt-dropcap-round {
+background-position:0 -11px !important;
+}
+.tt-dropcap-black-2 .tt-dropcap-round {
+background-position:-41px -51px !important;
+}
+.tt-dropcap-blue-grey .tt-dropcap-round {
+background-position:-82px -92px !important;
+}
+.tt-dropcap-cool-blue .tt-dropcap-round {
+background-position:-122px -133px !important;
+}
+.tt-dropcap-coffee .tt-dropcap-round {
+background-position:-162px -174px !important;
+}
+.tt-dropcap-fire .tt-dropcap-round {
+background-position:-202px -214px !important;
+}
+.tt-dropcap-golden .tt-dropcap-round {
+background-position:-242px -254px !important;
+}
+.tt-dropcap-green-2 .tt-dropcap-round {
+background-position:-282px -295px !important;
+}
+.tt-dropcap-lime-green .tt-dropcap-round {
+background-position:-322px -336px !important;
+}
+.tt-dropcap-periwinkle .tt-dropcap-round {
+background-position:0px -104px !important;
+}
+.tt-dropcap-pink .tt-dropcap-round {
+background-position:-41px -144px !important;
+}
+.tt-dropcap-purple-2 .tt-dropcap-round {
+background-position:-81px -184px !important;
+}
+.tt-dropcap-silver .tt-dropcap-round {
+background-position:-122px -224px !important;
+}
+.tt-dropcap-red-2 .tt-dropcap-round {
+background-position:-162px -264px !important;
+}
+.tt-dropcap-royal-blue .tt-dropcap-round {
+background-position:-202px -305px !important;
+}
+.tt-dropcap-teal-2 .tt-dropcap-round {
+background-position:-243px -346px !important;
+}
+.tt-dropcap-sky-blue .tt-dropcap-round {
+background-position:-283px -386px !important;
+}
+.tt-dropcap-teal-grey .tt-dropcap-round {
+background-position:-323px -426px !important;
+}
+.tt-dropcap-black .tt-dropcap-round {
+background-position:-91px 0px !important;
+}
+.tt-dropcap-grey .tt-dropcap-round {
+background-position:-132px -41px !important;
+}
+.tt-dropcap-blue .tt-dropcap-round {
+background-position:-172px -82px !important;
+}
+.tt-dropcap-green .tt-dropcap-round {
+background-position:-212px -123px !important;
+}
+.tt-dropcap-navy .tt-dropcap-round {
+background-position:-252px -163px !important;
+}
+.tt-dropcap-orange .tt-dropcap-round {
+background-position:-292px -203px !important;
+}
+.tt-dropcap-purple .tt-dropcap-round {
+background-position:-332px -244px !important;
+}
+.tt-dropcap-red .tt-dropcap-round {
+background-position:-372px -285px !important;
+}
+.tt-dropcap-teal .tt-dropcap-round {
+background-position:-202px 0px !important;
+}
+/*-------------------------------*/
+/* Pricing Boxes
+/*-------------------------------*/
+.true-vision-pricing-top p {
+color: #FFF;
+}
